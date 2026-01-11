@@ -52,4 +52,4 @@ To run this project on your local machine:
 
    ```bash
 
-   git clone [https://github.com/YOUR_USERNAME/alku-assistant.git](https://github.com/aysetugbapekoz/alku-assistant.git) 
+   git clone [https://github.com/aysetugbapekoz/alku-assistant.git](https://github.com/aysetugbapekoz/alku-assistant.git) 
