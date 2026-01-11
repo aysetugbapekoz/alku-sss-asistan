@@ -52,4 +52,4 @@ To run this project on your local machine:
 
    ```bash
 
-git clone https://www.google.com/search?q=https://github.com/aysetugbapekoz/CodeAlpha_FAQ_Chatbot
+git clone https://github.com/aysetugbapekoz/CodeAlpha_FAQ_Chatbot.git
